@@ -1,6 +1,6 @@
 # Privacy Policy for Calculator Pro
 
-**Last Updated:** October 24, 2025
+**Last Updated:** February 2026
 
 ## Introduction
 
@@ -86,7 +86,7 @@ You have the right to:
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** [YOUR_EMAIL_HERE]
+**Email:** calculatorpro+contentwithvoid@gmail.com
 
 ## Consent
 
